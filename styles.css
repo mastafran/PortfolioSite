@@ -1,0 +1,16 @@
+body {
+    background-image: url("2022_Websitre_Promo_TextureBlue(small).png");
+    background-color: darkblue;
+} 
+h1, h2, h3{color:white;
+   text-align:center;
+}
+p{color:antiquewhite;
+  text-align:left;
+  font-family:Verdana;
+  font-size:20px;
+}
+table{font-family:'Times New Roman', Times, serif;
+      color:antiquewhite;
+}
+th,td{border:1px solid white;}
